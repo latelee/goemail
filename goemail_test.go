@@ -1,5 +1,8 @@
 ﻿/*
-测试：
+安装依赖包：
+go get github.com/go-gomail/gomail
+
+测试命令：
 go test 
 */
 package goemail
